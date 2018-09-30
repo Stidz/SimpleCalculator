@@ -7,8 +7,7 @@ public class Main {
 
     //git coment
     // second git comment
-    // test number 3
-    // added 4 linie
+
 
     public static void main(String[] args) {
 
