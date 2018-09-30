@@ -1,0 +1,13 @@
+$ cat .gitignore
+*.[oa]
+*~
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Projekct Folders #
+*.idea/
+SimpleCalculator.iml
+out/
